@@ -17,3 +17,9 @@ Parking Lot: Design a parking lot using object-oriented principles.
 
 • A bus can park in five large spots that are consecutive and within the same row. it cannot park in small
 spots.
+
+Use Cases:
+
+High Priority:
+Interaction of vehicle and parking lot (event-driven / pub - sub)
+
